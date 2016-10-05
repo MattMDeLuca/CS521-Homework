@@ -1,2 +1,2 @@
-# CS521-Homework
+# Homework
 Homework for Information Structures With Python.
